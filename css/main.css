@@ -317,8 +317,8 @@ body {
   text-decoration: none;
   padding: 15px 25px;
   border-radius: 4px;
-  box-shadow: 0px 4px 30px -6px rgba(243, 202, 255, 0.65);
-  background: #451b6d;
+  box-shadow: 0px 4px 30px -6px rgba(184, 74, 74, 0.397);
+  background: #9c83b4;
   color: #fff;
   font-weight: bold;
   letter-spacing: 1px;
@@ -328,7 +328,7 @@ body {
 @media screen and (min-width: 500px) {
   .github-btn:hover {
     transform: scale(1.1);
-    box-shadow: 0px 17px 20px -6px rgb(125, 33, 201);
+    box-shadow: 0px 17px 20px -6px rgb(94, 90, 97);
   }
 }
 @media screen and (max-width: 700px) {
